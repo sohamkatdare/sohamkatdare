@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi, my name is Soham.
+
+- 🏫 I am a full-stack programmer and a senior at the Downingtown STEM Academy.
+- 🧑‍💻 I am passionate about web and software development, especially where it can help me and my community!
+- 🔥 I am currently learning machine learning in Pytorch.
 
 <!--
 **sohamkatdare/sohamkatdare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
